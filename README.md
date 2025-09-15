@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:a855f7&height=300&section=header&text=Ndivhuwo%20Lodrick%20Munonela&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Passionate%20Full%20Stack%20Developer%20from%20South%20Africa&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:a855f7&height=300&section=header&text=Ndivhuwo%20Lodrick%20Munonela&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Passionate%20Full%20Stack%20Developer%&descAlignY=51&descAlign=62)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Azure+Certified+Developer;Terraform+Infrastructure+Expert;Full+Stack+Developer;Linux+%26+Hyprland+Enthusiast" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Azure+Certified+Developer;Certified+Terraform+Associate;Full+Stack+Developer;Linux+%26+Enthusiast" alt="Typing Animation" />
 
 </div>
 
@@ -14,8 +14,6 @@
 [![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.hashicorp.com/certification/terraform-associate)
 
 </div>
-
-## � Tech Stack
 
 ### 🌐 Frontend Development
 <div align="center">
@@ -35,14 +33,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-</div>
-
-### ☁️ Cloud & Infrastructure
-<div align="center">
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 </div>
 
