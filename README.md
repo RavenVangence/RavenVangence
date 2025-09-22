@@ -1,7 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:a855f7&height=150&section=header&text=Ndivhuwo%20Lodrick%20Munonela&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20South%20Africa&descAlignY=65&descAlign=50&descSize=16)
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=450&lines=Azure+Certified+Developer;Terraform+Associate;Full+Stack+Developer;Linux+Enthusiast" alt="Typing Animation" />
 </div>
 
