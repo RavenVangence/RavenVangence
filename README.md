@@ -9,9 +9,9 @@
 
 ## 🏆 Certifications
 
-[![AZ-400](https://img.shields.io/badge/Microsoft-AZ--400-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
-[![AZ-204](https://img.shields.io/badge/Microsoft-AZ--204-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
-[![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.hashicorp.com/certification/terraform-associate)
+[![AZ-204](https://img.shields.io/badge/Microsoft%20Certified:%20Azure%20Developer%20Associate%20(AZ--204)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
+[![AZ-400](https://img.shields.io/badge/Microsoft%20Certified:%20DevOps%20Engineer%20Expert%20(AZ--400)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
+[![Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified:%20Terraform%20Associate%20(003)-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.hashicorp.com/certification/terraform-associate)
 <hr>
 
 ### 🌐 Frontend Development
