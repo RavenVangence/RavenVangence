@@ -9,6 +9,7 @@
 
 ## 🏆 Certifications
 
+[![AZ-400](https://img.shields.io/badge/Microsoft-AZ--400-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
 [![AZ-204](https://img.shields.io/badge/Microsoft-AZ--204-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
 [![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.hashicorp.com/certification/terraform-associate)
 <hr>
